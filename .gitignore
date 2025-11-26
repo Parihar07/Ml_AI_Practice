@@ -6,6 +6,7 @@ __pycache__/
 .Python
 env/
 venv/
+.venv/
 *.egg-info/
 
 # Jupyter Notebook
@@ -23,3 +24,6 @@ venv/
 
 # Exclude llm_engineering directory
 llm_engineering/
+
+# Local directories
+cvStuff/
