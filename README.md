@@ -29,9 +29,8 @@ This repository is organized into three main pillars, reflecting my current engi
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Python, C++, C
+* **Languages:** Python, C++
 * **Frameworks:** PyTorch, TensorFlow, LangChain (or similar Agentic frameworks)
-* **Tools:** Docker, Kubernetes, Vector DBs
 
 ## 🚀 Getting Started
 
